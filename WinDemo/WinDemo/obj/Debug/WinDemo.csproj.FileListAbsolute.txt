@@ -1,0 +1,11 @@
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\bin\Debug\WinDemo.exe.config
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\bin\Debug\WinDemo.exe
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\bin\Debug\WinDemo.pdb
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\bin\Debug\DataLayer.dll
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\bin\Debug\DataLayer.pdb
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.csprojResolveAssemblyReference.cache
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.Form1.resources
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.Properties.Resources.resources
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.csproj.GenerateResource.Cache
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.exe
+C:\GitHub\Certificacion\ADO.NET\WinDemo\WinDemo\obj\Debug\WinDemo.pdb

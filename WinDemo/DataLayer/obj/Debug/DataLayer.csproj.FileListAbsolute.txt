@@ -1,0 +1,5 @@
+C:\GitHub\Certificacion\ADO.NET\WinDemo\DataLayer\bin\Debug\DataLayer.dll
+C:\GitHub\Certificacion\ADO.NET\WinDemo\DataLayer\bin\Debug\DataLayer.pdb
+C:\GitHub\Certificacion\ADO.NET\WinDemo\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\GitHub\Certificacion\ADO.NET\WinDemo\DataLayer\obj\Debug\DataLayer.dll
+C:\GitHub\Certificacion\ADO.NET\WinDemo\DataLayer\obj\Debug\DataLayer.pdb
